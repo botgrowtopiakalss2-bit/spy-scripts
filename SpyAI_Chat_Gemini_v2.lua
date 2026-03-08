@@ -14,7 +14,7 @@
 -- ══════════════════════════════════════════════════════
 --  CONFIG — GANTI INI DENGAN KEY KAMU
 -- ══════════════════════════════════════════════════════
-local API_KEY = "GANTI_DENGAN_GEMINI_API_KEY"
+local API_KEY = "AIzaSyBQMvAjXCk7-Mae1_Mu-XHUV5RwITPf2Gs"
 local MODEL   = "gemini-2.0-flash"   -- model terbaru, gratis, cepat
 
 -- ══════════════════════════════════════════════════════
